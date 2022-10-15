@@ -1,1 +1,5 @@
-# Twitch-Tableu-Dashboard-Project
+# Twitch-Tableau-Dashboard-Project
+
+This project was done on streaming service Twitch and its possible change in viewer base over the past couple years. I used two data sets from Kaggle: one that focuses on the top 200 games on Twitch for every month starting from January 2016 based on hours watched and another that has general statistics for Twitch for every month. I tracked the overall growth in average viewers and noted the increase in viewership since the pandemic. From this, I analyzed the top 15 games on Twitch of all time and tracked their changes in rank overtime to determine what games have become more popular recently and which have declined in popularity. I noticed a rising surge in interest for social-based games and a decline in interest towards traditional multiplayer online games and first-person shooters. With these patterns, I reccomended certain strategies on how Twitch could handle advertisements and streamer deals based on changes in viewer base on the platform. All visualizations were done in Tableau using various filters and groupings.
+
+Link to video presentation: https://redhawks-my.sharepoint.com/:v:/g/personal/denhamd_seattleu_edu/Ea1eIYE6gtBDrdFG1IpkDu4BdFcR1nRWShHNYKtg32JZ-Q?e=HMLIzG
